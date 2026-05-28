@@ -15,7 +15,6 @@ Browser → CloudFront (CDN + HTTPS) → S3 (private bucket)
 ## AWS Services Used
 - **S3** — stores and hosts the static HTML/CSS files
 - **CloudFront** — CDN that serves the site globally over HTTPS
-- **ACM** — SSL certificate for HTTPS encryption
 - **IAM** — created admin user with least-privilege access, 
   root account secured with MFA
 
