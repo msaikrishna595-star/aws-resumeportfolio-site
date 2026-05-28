@@ -29,4 +29,4 @@ Browser → CloudFront (CDN + HTTPS) → S3 (private bucket)
 ![Live Site](https://github.com/msaikrishna595-star/aws-resumeportfolio-site/blob/c2a413b565f071ae0963ca0a7ebb36a82590a848/Screenshot%202026-05-28%20162054.png)
 
 ## AWS Console
-![CloudFront Setup](cloudfront-screenshot.png)
+![CloudFront Setup](https://github.com/msaikrishna595-star/aws-resumeportfolio-site/blob/ae6496fd7bfd6a0034e96d7cb3c75bac8a3855bc/Screenshot%202026-05-28%20162907.png)
