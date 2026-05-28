@@ -26,7 +26,7 @@ Browser → CloudFront (CDN + HTTPS) → S3 (private bucket)
 - IAM best practices — never use root for daily work
 
 ## Live Site
-![Live Site](site-screenshot.png)
+![Live Site](https://github.com/msaikrishna595-star/aws-resumeportfolio-site/blob/c2a413b565f071ae0963ca0a7ebb36a82590a848/Screenshot%202026-05-28%20162054.png)
 
 ## AWS Console
 ![CloudFront Setup](cloudfront-screenshot.png)
